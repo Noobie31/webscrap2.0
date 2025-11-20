@@ -1,4 +1,3 @@
-```markdown
 # MyAgedCare Scraper
 
 A Python scraper for MyAgedCare provider data with multi-level iteration through locations and search types.
@@ -65,4 +64,4 @@ python test.py
 - **Duplicate prevention:** Skips providers with previously stored telephone numbers  
 - **Progress saving:** Automatically continues from the last processed location if interrupted  
 - **CSV append mode:** Existing data is preserved across runs
-```
+
